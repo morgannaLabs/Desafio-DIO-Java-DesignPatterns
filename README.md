@@ -1,7 +1,3 @@
-# Desafio DIO - Design Patterns com Java
-
-Projeto desenvolvido durante o bootcamp NTT DATA: Backend Java com Spring AI da DIO.
-Data da criação: 24/07/2026
 
 <img width="951" height="709" alt="Gemini_Generated_Image_shxsgushxsgushxs" src="https://github.com/user-attachments/assets/f2912fc7-ef9f-418f-889f-d11725003f8d" />
 
