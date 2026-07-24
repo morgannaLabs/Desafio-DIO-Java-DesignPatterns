@@ -14,12 +14,16 @@ encapsulá-los e torná-los intercambiáveis em tempo de execução.
 Foi criado um sistema simples de RPG onde um herói pode alterar sua classe
 de combate dinamicamente.
 
-Classes disponíveis:
+## Estrutura
 
-- Guerreiro
-- Mago
-- Arqueiro
-- Bárbaro
+Heroi (Context)
+    |
+    └── ClasseHeroi (Strategy)
+            |
+            ├── Guerreiro
+            ├── Mago
+            ├── Arqueiro
+            └── Barbaro
 
 Cada classe possui sua própria implementação de:
 
