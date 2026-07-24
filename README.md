@@ -1,6 +1,7 @@
 # Desafio DIO - Design Patterns com Java
 
 Projeto desenvolvido durante o bootcamp NTT DATA: Backend Java com Spring AI da DIO.
+Data da criação: 24/07/2026
 
 ## Padrão implementado
 
@@ -16,14 +17,18 @@ de combate dinamicamente.
 
 ## Estrutura
 
-Heroi (Context)
-    |
-    └── ClasseHeroi (Strategy)
-            |
-            ├── Guerreiro
-            ├── Mago
-            ├── Arqueiro
-            └── Barbaro
+```text
+                 Heroi
+              (Contexto)
+                   |
+                   |
+        ClasseHeroi (Strategy)
+                   |
+    --------------------------------
+    |              |        |       |
+Guerreiro       Mago   Arqueiro  Barbaro
+(Strategy)   (Strategy) (Strategy) (Strategy)
+```
 
 Cada classe possui sua própria implementação de:
 
