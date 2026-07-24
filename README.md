@@ -5,11 +5,6 @@ Projeto desenvolvido no bootcamp NTT DATA: Backend Java com Spring AI da DIO.
 <img width="951" height="581" alt="2" src="https://github.com/user-attachments/assets/04da0559-8483-4c3f-a5d3-ba89f48c7bb1" />
 
 
-## Objetivo
-
-Aplicar o padrão Strategy através de um cenário de RPG,
-permitindo alterar dinamicamente o comportamento de um herói.
-
 ## Padrão implementado
 
 ### Strategy
