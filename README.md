@@ -1,6 +1,14 @@
+# Design Patterns Java - Strategy RPG
 
-<img width="951" height="709" alt="Gemini_Generated_Image_shxsgushxsgushxs" src="https://github.com/user-attachments/assets/f2912fc7-ef9f-418f-889f-d11725003f8d" />
+Projeto desenvolvido no bootcamp NTT DATA: Backend Java com Spring AI da DIO.
 
+<img width="951" height="581" alt="2" src="https://github.com/user-attachments/assets/04da0559-8483-4c3f-a5d3-ba89f48c7bb1" />
+
+
+## Objetivo
+
+Aplicar o padrão Strategy através de um cenário de RPG,
+permitindo alterar dinamicamente o comportamento de um herói.
 
 ## Padrão implementado
 
@@ -35,7 +43,7 @@ Cada classe possui sua própria implementação de:
 - Defesa
 - Cura
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - Java
 - Eclipse IDE
